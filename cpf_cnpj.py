@@ -1,6 +1,5 @@
 from validate_docbr import CPF, CNPJ
 
-
 class Documento:
     @staticmethod
     def cria_documento(documento):
